@@ -1,0 +1,14 @@
+Here are the steps to install Python 3 on macOS:
+
+   1. Open a web browser and go to the official Python website at https://www.python.org/downloads/mac-osx/
+
+   2. Scroll down to the "Download macOS installer" section and click on the latest version of Python 3 for macOS.
+
+   3. Once the installer is downloaded, double-click on the installer package to start the installation process.
+
+   4. Follow the instructions provided by the installer to complete the installation process.
+
+   5. After the installation is complete, open a Terminal window, Type the following command in the Terminal window to check the version of Python that is installed:
+
+    ```python3 --version```
+    This should print the version number of Python 3 that you installed.
